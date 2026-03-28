@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+.env.local
+.env.*
+!.env.example
+*.tgz
+test-output/
+local-test-output/
+.pack-test/

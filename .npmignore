@@ -1,0 +1,9 @@
+test-project/
+test-output/
+local-test-output/
+.pack-test/
+src/
+.env
+*.tgz
+*.log
+node_modules/
